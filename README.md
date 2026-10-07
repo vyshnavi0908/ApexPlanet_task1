@@ -86,3 +86,5 @@ You can also add your actual GitHub/LinkedIn links when you are ready.
 The contact form is intentionally frontend-only for Task 1. It validates the input using JavaScript but does not send an email because no backend is included in this task.
 
 The repository is prepared with **10 meaningful local Git commits** to satisfy the internship's minimum-commit requirement. If you use this folder's existing `.git` history and push it to a new repository, the history will be retained.
+
+<!-- Task 1 final documentation milestone -->
